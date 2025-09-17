@@ -1,0 +1,49 @@
+body{
+    /* background-color: rgb(226, 251, 251); */
+    background-color: #7A7A73;
+}
+.Biryani{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+     font-family: "Sofia", cursive;
+     font-weight: 400;
+    font-style: normal;
+   
+}
+.somechicken{
+text-align: center;
+font-size: 20px;
+color: wheat;
+}
+.main_box{
+    background-color: aliceblue;
+    height: 1000px;
+    width: 800px;
+    margin-left: 25%;
+     border-radius: 20px;
+     box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.photo1{
+    height: 300px;
+    width: 779px;
+    margin-left: 1%;
+    margin-top: 1rem;
+    border-radius: 10px
+}
+.someloved{
+    margin-left: 1rem;
+}
+.Preptime{
+    font-size: 20px;
+    height: 36px;
+    width: 100%;
+    padding-top: 1rem;
+    text-align: center;
+    background-color: lightgrey;
+    border: 20px;
+    
+}
+.ingredients{
+    margin-left: 2rem;
+}
